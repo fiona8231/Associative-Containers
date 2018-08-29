@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sherry/Documents/YueXuStudy/CPP/Associative Containers/main.cpp
+iostream
+-
+set
+-
+map
+-
+stack
+-
+queue
+-
+
